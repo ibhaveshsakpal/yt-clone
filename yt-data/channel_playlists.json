@@ -1,0 +1,12 @@
+{
+  "collections": [
+    {
+      "filter": "created_playlists_newest",
+      "title": "Date added (newest)"
+    },
+    {
+      "filter": "created_playlists_last_video_added",
+      "title": "Last video added"
+    }
+  ]
+}
